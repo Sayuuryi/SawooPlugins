@@ -54,10 +54,10 @@
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.8.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.8.0.0/latest.zip",
-    "TestingAssemblyVersion": "0.9.7.0",
+    "TestingAssemblyVersion": "0.9.8.0",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.7.0-testing/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.8.0-testing/latest.zip",
     "Changelog": "### Presets\n- Offers once to import presets you already have on this PC, with a button in Settings for later\n\n### Fixes\n- A failed start now cleans up after itself, so the next load or update isn't affected",
-    "LastUpdate": 1795559891
+    "LastUpdate": 1795560660
   }
 ]

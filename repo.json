@@ -1,0 +1,63 @@
+[
+  {
+    "Author": "Sayuuryi",
+    "Name": "Chibi Dancing Mad",
+    "InternalName": "ChibiDancingMad",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "Scales Dancing Mad Exdeath and Chaos down with optional Penumbra redraw support.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Sayuuryi/ChibiDancingMad",
+    "Tags": [
+      "dancingmad",
+      "exdeath",
+      "chaos",
+      "penumbra",
+      "ultimate"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Makes Dancing Mad Exdeath and Chaos smaller.",
+    "AcceptsFeedback": true,
+    "IconUrl": "https://raw.githubusercontent.com/Sayuuryi/ChibiDancingMad/main/icon.png",
+    "DownloadLinkInstall": "https://github.com/Sayuuryi/ChibiDancingMad/releases/download/v1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Sayuuryi/ChibiDancingMad/releases/download/v1.0.0.0/latest.zip",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "TestingDalamudApiLevel": 15,
+    "DownloadLinkTesting": "https://github.com/Sayuuryi/ChibiDancingMad/releases/download/v1.0.0.0/latest.zip",
+    "Changelog": "Chibi Dancing Mad 1.0.0.0",
+    "LastUpdate": 1795557105
+  },
+  {
+    "Author": "Sayuuryi",
+    "Name": "Sawoo Plates",
+    "InternalName": "SawooPlates",
+    "AssemblyVersion": "0.8.0.0",
+    "Description": "Adds a small menu bar to the Portrait Editor with preset codes, a preset library and finer camera controls.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Sayuuryi/SawooPlates",
+    "Tags": [
+      "portrait",
+      "portrait editor",
+      "preset",
+      "banner"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/Sayuuryi/SawooPlates/main/SawooPlates/Assets/icon.png",
+    "Punchline": "A few extra tools for the Portrait Editor.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.8.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.8.0.0/latest.zip",
+    "TestingAssemblyVersion": "0.9.0.0",
+    "TestingDalamudApiLevel": 15,
+    "DownloadLinkTesting": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.0.0-testing/latest.zip",
+    "Changelog": "### Presets\n- Offers once to import presets you already have on this PC, with a button in Settings for later\n\n### Fixes\n- A failed start now cleans up after itself, so the next load or update isn't affected",
+    "LastUpdate": 1795556412
+  }
+]

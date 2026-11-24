@@ -1,0 +1,37 @@
+name: Update plugin list
+
+# Rebuilds repo.json from the releases of every repository in plugins.json.
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths: [ 'plugins.json', '.github/**' ]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Build repo.json
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ./.github/scripts/Build-RepoJson.ps1
+
+      - name: Commit if changed
+        shell: pwsh
+        run: |
+          git add repo.json
+          git diff --cached --quiet
+          if ($LASTEXITCODE -eq 0) { Write-Host "No changes"; exit 0 }
+          git config user.name  "Joao Victor R"
+          git config user.email "228801047+Sayuuryi@users.noreply.github.com"
+          git commit -m "Update plugin list"
+          git push origin main

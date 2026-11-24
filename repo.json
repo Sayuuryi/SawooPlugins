@@ -4,7 +4,7 @@
     "Name": "Chibi Dancing Mad",
     "InternalName": "ChibiDancingMad",
     "AssemblyVersion": "1.0.0.0",
-    "Description": "Scales Dancing Mad Exdeath and Chaos down with optional Penumbra redraw support.",
+    "Description": "Lets you adjust the size of Exdeath and Chaos.\nNeeds Penumbra to work.\nType /chibidm to open the settings.\nType /chibidm redraw to redraw.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Sayuuryi/ChibiDancingMad",
     "Tags": [
@@ -19,7 +19,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "Makes Dancing Mad Exdeath and Chaos smaller.",
+    "Punchline": "Adjust the size of Exdeath and Chaos.",
     "AcceptsFeedback": true,
     "IconUrl": "https://raw.githubusercontent.com/Sayuuryi/ChibiDancingMad/main/icon.png",
     "DownloadLinkInstall": "https://github.com/Sayuuryi/ChibiDancingMad/releases/download/v1.0.0.0/latest.zip",

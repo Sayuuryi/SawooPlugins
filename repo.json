@@ -33,7 +33,7 @@
     "Author": "Sayuuryi",
     "Name": "Sawoo Plates",
     "InternalName": "SawooPlates",
-    "AssemblyVersion": "0.8.0.0",
+    "AssemblyVersion": "0.9.22.0",
     "Description": "Adds a small menu bar to the Portrait Editor with preset codes, a preset library and finer camera controls.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Sayuuryi/SawooPlates",
@@ -51,12 +51,12 @@
     "IconUrl": "https://raw.githubusercontent.com/Sayuuryi/SawooPlates/main/SawooPlates/Assets/icon.png",
     "Punchline": "A few extra tools for the Portrait Editor.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.8.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.8.0.0/latest.zip",
-    "TestingAssemblyVersion": "0.9.21.0",
+    "DownloadLinkInstall": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.22.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.22.0/latest.zip",
+    "TestingAssemblyVersion": "0.9.22.0",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.21.0-testing/latest.zip",
-    "Changelog": "### Presets\n- Offers once to import presets you already have on this PC, with a button in Settings for later\n\n### Fixes\n- A failed start now cleans up after itself, so the next load or update isn't affected",
-    "LastUpdate": 1795584840
+    "DownloadLinkTesting": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.22.0/latest.zip",
+    "Changelog": "### Plate design\n- Apply plate design goes all the way to Edit Plate Design by itself: it opens your plate, clicks Edit and then Edit Plate Design\n- If a step can't be found, it asks you to open Edit Plate Design and still applies when you do\n\n### Overlays\n- The Portrait Editor menu bar and the alignment guides stay behind other plugin windows too",
+    "LastUpdate": 1795585587
   }
 ]

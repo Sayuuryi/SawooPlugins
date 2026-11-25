@@ -17,4 +17,4 @@ To try new versions early, right-click a plugin in the installer and turn on **R
 | Plugin | |
 |---|---|
 | [Sawoo Plates](https://github.com/Sayuuryi/SawooPlates) | A few extra tools for the Portrait Editor. |
-| [Chibi Dancing Mad](https://github.com/Sayuuryi/ChibiDancingMad) | Makes Dancing Mad Exdeath and Chaos smaller. |
+| [Sawoo Boss Scaler](https://github.com/Sayuuryi/SawooBossScaler) | Change the size of ultimate bosses, phase by phase. |

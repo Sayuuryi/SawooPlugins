@@ -33,7 +33,7 @@
     "Author": "Sayuuryi",
     "Name": "Sawoo Plates",
     "InternalName": "SawooPlates",
-    "AssemblyVersion": "0.9.23.0",
+    "AssemblyVersion": "0.9.24.0",
     "Description": "Adds a small menu bar to the Portrait Editor with preset codes, a preset library and finer camera controls.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Sayuuryi/SawooPlates",
@@ -51,12 +51,12 @@
     "IconUrl": "https://raw.githubusercontent.com/Sayuuryi/SawooPlates/main/SawooPlates/Assets/icon.png",
     "Punchline": "A few extra tools for the Portrait Editor.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.23.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.23.0/latest.zip",
-    "TestingAssemblyVersion": "0.9.23.0",
+    "DownloadLinkInstall": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.24.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.24.0/latest.zip",
+    "TestingAssemblyVersion": "0.9.24.0",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.23.0/latest.zip",
-    "Changelog": "### Plate design\n- Use plate design (was Apply plate design) opens Edit Plate on your plate and shows a list next to it with what to pick in each row, marking parts you don't have\n- Ctrl+click still lets you pick which parts to use; rows you leave out say \"Keep yours\"\n- Closing Edit Plate closes the plate it opened and brings the Sawoo Plates window back\n- It no longer says the design was applied; the game only takes picks made in its own menus",
-    "LastUpdate": 1795587292
+    "DownloadLinkTesting": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.24.0/latest.zip",
+    "Changelog": "### Plate design\n- Use plate design picks each row in Edit Plate by itself and checks that the row shows it\n- The list next to Edit Plate marks picked rows, and says which ones to pick yourself and why\n- Invert Portrait Placement is set too",
+    "LastUpdate": 1795588335
   }
 ]

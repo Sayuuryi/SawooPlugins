@@ -21,14 +21,13 @@
     "IconUrl": "https://raw.githubusercontent.com/Sayuuryi/SawooBossScaler/main/SawooBossScaler/Assets/icon.png",
     "Punchline": "Change the size of ultimate bosses, phase by phase.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/Sayuuryi/SawooBossScaler/releases/download/v0.1.2.0-testing/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Sayuuryi/SawooBossScaler/releases/download/v0.1.2.0-testing/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Sayuuryi/SawooBossScaler/releases/download/v0.1.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Sayuuryi/SawooBossScaler/releases/download/v0.1.2.0/latest.zip",
     "TestingAssemblyVersion": "0.1.2.0",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/Sayuuryi/SawooBossScaler/releases/download/v0.1.2.0-testing/latest.zip",
-    "IsTestingExclusive": true,
+    "DownloadLinkTesting": "https://github.com/Sayuuryi/SawooBossScaler/releases/download/v0.1.2.0/latest.zip",
     "Changelog": "### Settings\n- Resize my target: try a size on any enemy, a striking dummy works, to check which size method works for you\n\n### Fixes\n- Bosses are put back to normal size when they stop being resized while still on the field\n- The plugin still loads if enemy actions can't be read after a game patch; phases then follow casts and bosses showing up\n- Putting bosses back when unloading is done on the game's thread",
-    "LastUpdate": 1795585161
+    "LastUpdate": 1795585477
   },
   {
     "Author": "Sayuuryi",

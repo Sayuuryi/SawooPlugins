@@ -53,10 +53,10 @@
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.24.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.24.0/latest.zip",
-    "TestingAssemblyVersion": "0.9.24.0",
+    "TestingAssemblyVersion": "0.9.25.0",
     "TestingDalamudApiLevel": 15,
-    "DownloadLinkTesting": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.24.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Sayuuryi/SawooPlates/releases/download/v0.9.25.0-testing/latest.zip",
     "Changelog": "### Plate design\n- Use plate design picks each row in Edit Plate by itself and checks that the row shows it\n- The list next to Edit Plate marks picked rows, and says which ones to pick yourself and why\n- Invert Portrait Placement is set too",
-    "LastUpdate": 1795588335
+    "LastUpdate": 1795589806
   }
 ]
